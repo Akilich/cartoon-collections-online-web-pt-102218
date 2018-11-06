@@ -23,3 +23,4 @@ def find_the_cheese(array)
       return cheese_types[2]
     end
   end
+end
